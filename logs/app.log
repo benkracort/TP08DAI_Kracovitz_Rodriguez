@@ -1,0 +1,44 @@
+2026-06-22T13:01:11.465Z: error - no existe la relación «provincess»
+
+Stack Trace:
+
+error: no existe la relación «provincess»
+    at C:\Users\devandroid\Downloads\TP08DAI_Kracovitz_Rodriguez-master\TP08DAI_Kracovitz_Rodriguez-master\node_modules\pg\lib\client.js:652:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async ProvinceRepository.getAll (file:///C:/Users/devandroid/Downloads/TP08DAI_Kracovitz_Rodriguez-master/TP08DAI_Kracovitz_Rodriguez-master/src/repositories/province-repository.js:14:28)
+    at async ProvinceService.getAll (file:///C:/Users/devandroid/Downloads/TP08DAI_Kracovitz_Rodriguez-master/TP08DAI_Kracovitz_Rodriguez-master/src/services/province-service.js:8:16)
+    at async file:///C:/Users/devandroid/Downloads/TP08DAI_Kracovitz_Rodriguez-master/TP08DAI_Kracovitz_Rodriguez-master/src/controllers/province-controller.js:9:23
+
+2026-06-22T13:01:22.233Z: error - no existe la relación «provincess»
+
+Stack Trace:
+
+error: no existe la relación «provincess»
+    at C:\Users\devandroid\Downloads\TP08DAI_Kracovitz_Rodriguez-master\TP08DAI_Kracovitz_Rodriguez-master\node_modules\pg\lib\client.js:652:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async ProvinceRepository.getAll (file:///C:/Users/devandroid/Downloads/TP08DAI_Kracovitz_Rodriguez-master/TP08DAI_Kracovitz_Rodriguez-master/src/repositories/province-repository.js:14:28)
+    at async ProvinceService.getAll (file:///C:/Users/devandroid/Downloads/TP08DAI_Kracovitz_Rodriguez-master/TP08DAI_Kracovitz_Rodriguez-master/src/services/province-service.js:8:16)
+    at async file:///C:/Users/devandroid/Downloads/TP08DAI_Kracovitz_Rodriguez-master/TP08DAI_Kracovitz_Rodriguez-master/src/controllers/province-controller.js:9:23
+
+2026-06-22T13:01:28.812Z: error - no existe la relación «provincess»
+
+Stack Trace:
+
+error: no existe la relación «provincess»
+    at C:\Users\devandroid\Downloads\TP08DAI_Kracovitz_Rodriguez-master\TP08DAI_Kracovitz_Rodriguez-master\node_modules\pg\lib\client.js:652:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async ProvinceRepository.getAll (file:///C:/Users/devandroid/Downloads/TP08DAI_Kracovitz_Rodriguez-master/TP08DAI_Kracovitz_Rodriguez-master/src/repositories/province-repository.js:14:28)
+    at async ProvinceService.getAll (file:///C:/Users/devandroid/Downloads/TP08DAI_Kracovitz_Rodriguez-master/TP08DAI_Kracovitz_Rodriguez-master/src/services/province-service.js:8:16)
+    at async file:///C:/Users/devandroid/Downloads/TP08DAI_Kracovitz_Rodriguez-master/TP08DAI_Kracovitz_Rodriguez-master/src/controllers/province-controller.js:9:23
+
+2026-06-22T13:01:33.276Z: error - no existe la relación «provincess»
+
+Stack Trace:
+
+error: no existe la relación «provincess»
+    at C:\Users\devandroid\Downloads\TP08DAI_Kracovitz_Rodriguez-master\TP08DAI_Kracovitz_Rodriguez-master\node_modules\pg\lib\client.js:652:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async ProvinceRepository.getAll (file:///C:/Users/devandroid/Downloads/TP08DAI_Kracovitz_Rodriguez-master/TP08DAI_Kracovitz_Rodriguez-master/src/repositories/province-repository.js:14:28)
+    at async ProvinceService.getAll (file:///C:/Users/devandroid/Downloads/TP08DAI_Kracovitz_Rodriguez-master/TP08DAI_Kracovitz_Rodriguez-master/src/services/province-service.js:8:16)
+    at async file:///C:/Users/devandroid/Downloads/TP08DAI_Kracovitz_Rodriguez-master/TP08DAI_Kracovitz_Rodriguez-master/src/controllers/province-controller.js:9:23
+
