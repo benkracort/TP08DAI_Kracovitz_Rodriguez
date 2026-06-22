@@ -1,0 +1,28 @@
+# Dependencias
+node_modules/
+
+# Variables de entorno
+.env
+
+# Logs generados por la app
+logs/
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Configuración de editores
+.vscode/
+.idea/
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Builds (si existen)
+dist/
+build/
+
+# Cobertura de tests (si usás)
+coverage/
