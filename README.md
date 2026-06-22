@@ -1,4 +1,4 @@
-### Crear base de datos
+## Base de datos
 
 La base de datos se tiene que llamar 'DAI'
 
